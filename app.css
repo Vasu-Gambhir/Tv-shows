@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bmV0ZmxpeHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60') ;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color: steelblue;
+    text-align: center;
+}
+
+#searchForm{
+    width: 60%;
+    margin: 0 auto;
+}
+#title {
+    width:80%;
+    justify-content: center;
+    margin: 20px auto;
+    display: inline;
+}
+
+#btn{
+    padding: 5px 8px 4px 8px;
+    justify-content: center;
+}
+
+
